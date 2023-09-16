@@ -1,9 +1,9 @@
 def update_data_from_web(new_df, output_path, date_string  = ''):
-    import read_from_csv
+    import read_data
     import pandas as pd
     import datetime
     import numpy as np
-    old_df = read_from_csv.read_data_from_excel(output_path)
+    old_df = read_data.read_data_from_excel(output_path,date_string)
     specific_date = ''
     if date_string  =='':
         now = datetime.datetime.now()
@@ -35,10 +35,14 @@ def update_data_from_web(new_df, output_path, date_string  = ''):
                         old_df['tournament'] == values[1]) & (
                     old_df['begin_time'] == values[2]) & (old_df['first_team'] == values[3]) & (
                     old_df['second_team'] == values[4])].index
+
+
+        old_df.loc[index, 'date_time'] = r['date_time']
+        old_df.loc[index, 'match_href'] = r['match_href']
         old_df.loc[index, 'full_match_goals'] = r['full_match_goals']
         old_df.loc[index, 'half_match_goals'] = r['half_match_goals']
-
         old_df.loc[index, 'first_team_goals'] = int(r['first_team_goals']) if r['first_team_goals'] is not None else np.nan
         old_df.loc[index, 'second_team_goals'] = int(r['second_team_goals']) if r['second_team_goals'] is not None else np.nan
+
 
     return old_df

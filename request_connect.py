@@ -19,8 +19,8 @@ def Connect(date=''):
 
     formatted_date = tranform_date(date)
 
-    [url, matches_today] = read_resource.read_url_props()
-
+    url = read_resource.read_props().get('WEB_URL')
+    matches_today = read_resource.read_props().get('TODAY_PATH')
     # Gửi yêu cầu GET đến trang web
     response = requests.get(url + matches_today+formatted_date)
 

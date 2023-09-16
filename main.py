@@ -6,15 +6,15 @@ import read_resource
 from datetime import datetime
 
 def Run():
-    date = '12/09/2023'
-    [output_path] = read_resource.read_csv_props()
-    row_elements = request_connect.Connect(date)
+
+    output_path = read_resource.read_props().get('CSV_PATH')
+    row_elements = request_connect.Connect()
     list_leagues, clubs = extract_data.extract_data_from_web(row_elements)
-    save_to_csv.save_to_excel(list_leagues, output_path, date)
+    save_to_csv.save_to_excel(list_leagues, output_path)
 
 Run()
-# import read_from_csv
-#
-# [output_path] = read_resource.read_csv_props()
-# read_from_csv.read_data_from_excel(output_path)
+# import read_data
+# output_path= read_resource.read_props().get('CSV_PATH')
+# read_data.read_backup_data_directory()
 # URL của trang web bạn muốn thu thập dữ liệu
+
