@@ -101,5 +101,5 @@ def extract_data_from_web(row_elements):
                     clubs.append(club2)
         return list_leagues,clubs
     else:
-        print("Extract Erros: "+"Row elements is None")
+        print("[ERROR]: Extract Erros: "+"Row elements is None")
         return None

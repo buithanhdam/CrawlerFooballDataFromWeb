@@ -8,10 +8,10 @@ def read_data_from_excel(output_path, date_string=''):
         df = pd.read_csv(data_output_path)
         try:
             df['date_time'] = pd.to_datetime(df['date_time'], format='mixed')
-            df['date_time'] = pd.to_datetime(df['date_time'], format='%m/%d/%Y %H:%M')
+            df['date_time'] = pd.to_datetime(df['date_time'], format='%m/%d/%Y')
             print("Read csv successfully!!")
-        except NameError:
-            print("Read Data Error: " + NameError)
+        except Exception:
+            print("[ERROR]: Read Data Error: " + str(Exception))
             return []
     else:
         return []

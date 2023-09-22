@@ -1,0 +1,73 @@
+﻿date_time,region,tournament,matchday,league_href,begin_time,first_team,second_team,full_match_goals,half_match_goals,first_team_goals,second_team_goals,match_href
+09/11/2023,FIFA,Friendlies 2023,September,/schedule/freundschaft-2023-september/0/,11:30,Myanmar,Nepal,1:0,0:0,1,0,
+09/11/2023,FIFA,Friendlies 2023,September,/schedule/freundschaft-2023-september/0/,13:00,Hong Kong,Brunei,10:0,3:0,10,0,/report/freundschaft-2023-september-hongkong-brunei/
+09/11/2023,FIFA,Friendlies 2023,September,/schedule/freundschaft-2023-september/0/,13:00,Cambodia,Macao,4:0,3:0,4,0,
+09/11/2023,FIFA,Friendlies 2023,September,/schedule/freundschaft-2023-september/0/,13:30,Vietnam,Palestine,2:0,0:0,2,0,/report/freundschaft-2023-september-vietnam-palaestina/
+09/11/2023,FIFA,Friendlies 2023,September,/schedule/freundschaft-2023-september/0/,17:00,Kyrgyzstan,Kuwait,3:1,1:1,3,1,
+09/11/2023,FIFA,U21 Friendlies 2023,September,/schedule/u21-h-freundschaft-2023-september/0/,14:00,Uzbekistan,Russia,0:2,,0,2,
+09/11/2023,FIFA,U21 Friendlies 2023,September,/schedule/u21-h-freundschaft-2023-september/0/,17:00,Denmark,Slovakia,0:2,0:0,0,2,/report/u21-h-freundschaft-2023-september-daenemark-slowakei/
+09/11/2023,FIFA,U20 Friendlies 2023,September,/schedule/u20-h-freundschaft-2023-september/0/,15:15,Poland,Germany,1:1,1:1,1,1,/report/u20-h-freundschaft-2023-september-polen-deutschland/
+09/11/2023,FIFA,U20 Friendlies 2023,September,/schedule/u20-h-freundschaft-2023-september/0/,16:00,Czech Republic,Italy,0:1,0:0,0,1,/report/u20-h-freundschaft-2023-september-tschechien-italien/
+09/11/2023,FIFA,U20 Friendlies 2023,September,/schedule/u20-h-freundschaft-2023-september/0/,17:00,Denmark,France,1:3,1:1,1,3,/report/u20-h-freundschaft-2023-september-daenemark-frankreich_2/
+09/11/2023,FIFA,U19 Friendlies 2023,September,/schedule/u19-h-freundschaft-2023-september/0/,09:00,Latvia,Austria,2:2,1:1,2,2,/report/u19-h-freundschaft-2023-september-lettland-oesterreich_2/
+09/11/2023,FIFA,U19 Friendlies 2023,September,/schedule/u19-h-freundschaft-2023-september/0/,12:00,Finland,Wales,0:1,0:0,0,1,/report/u19-h-freundschaft-2023-september-finnland-wales/
+09/11/2023,FIFA,U19 Friendlies 2023,September,/schedule/u19-h-freundschaft-2023-september/0/,15:30,Italy,Netherlands,0:2,0:1,0,2,/report/u19-h-freundschaft-2023-september-italien-niederlande/
+09/11/2023,FIFA,U19 Friendlies 2023,September,/schedule/u19-h-freundschaft-2023-september/0/,15:30,Albania,Azerbaijan,0:0,,0,0,
+09/11/2023,FIFA,U18 Friendlies 2023,September,/schedule/u18-h-freundschaft-2023-september_2/0/,08:30,Romania,Moldova,2:4,1:1,2,4,/report/u18-h-freundschaft-2023-september-rumaenien-moldau/
+09/11/2023,FIFA,U17 Friendlies 2023,September,/schedule/u17-h-freundschaft-2023-september/0/,13:00,Belgium,Ireland,0:1,0:1,0,1,/report/u17-h-freundschaft-2023-september-belgien-irland_2/
+09/11/2023,FIFA,U16 Friendlies 2023,September,/schedule/u16-h-freundschaft-2023-september_2/0/,10:00,Germany,Austria,1:2,1:1,1,2,/report/u16-h-freundschaft-2023-september-deutschland-oesterreich_2/
+09/11/2023,UEFA,EURO Qualifiers 2023/2024,Group D,/schedule/em-qualifikation-2023-2024-gruppe-d/0/,17:00,Armenia,Croatia,0:1,0:1,0,1,/report/em-qualifikation-2023-2024-gruppe-d-armenien-kroatien/
+09/11/2023,UEFA,EURO Qualifiers 2023/2024,Group D,/schedule/em-qualifikation-2023-2024-gruppe-d/0/,19:45,Latvia,Wales,0:2,0:1,0,2,/report/em-qualifikation-2023-2024-gruppe-d-lettland-wales/
+09/11/2023,UEFA,EURO Qualifiers 2023/2024,Group J,/schedule/em-qualifikation-2023-2024-gruppe-j/0/,19:45,Iceland,Bosnia-Herzegovina,1:0,0:0,1,0,/report/em-qualifikation-2023-2024-gruppe-j-island-bosnien-herzegowina/
+09/11/2023,UEFA,EURO Qualifiers 2023/2024,Group J,/schedule/em-qualifikation-2023-2024-gruppe-j/0/,19:45,Slovakia,Liechtenstein,3:0,3:0,3,0,/report/em-qualifikation-2023-2024-gruppe-j-slowakei-liechtenstein/
+09/11/2023,UEFA,EURO Qualifiers 2023/2024,Group J,/schedule/em-qualifikation-2023-2024-gruppe-j/0/,19:45,Portugal,Luxembourg,9:0,4:0,9,0,/report/em-qualifikation-2023-2024-gruppe-j-portugal-luxemburg/
+09/11/2023,UEFA,Premier League International Cup 2023/2024,Group A,/schedule/premier-league-international-cup-2023-2024-gruppe-a/0/,19:00,Nottingham Forest U23,Jong PSV,1:3,0:1,1,3,/report/premier-league-international-cup-2023-2024-gruppe-a-nottingham-forest-u23-jong-psv/
+09/11/2023,UEFA,U21 EURO Qualifiers 2023/2024,Group B,/schedule/u21-h-em-qualifikation-2023-2024-gruppe-b/0/,19:00,Belgium,Kazakhstan,1:0,0:0,1,0,/report/u21-h-em-qualifikation-2023-2024-gruppe-b-belgien-kasachstan/
+09/11/2023,UEFA,U21 EURO Qualifiers 2023/2024,Group B,/schedule/u21-h-em-qualifikation-2023-2024-gruppe-b/0/,20:00,Spain,Scotland,1:0,0:0,1,0,/report/u21-h-em-qualifikation-2023-2024-gruppe-b-spanien-schottland/
+09/11/2023,UEFA,U21 EURO Qualifiers 2023/2024,Group F,/schedule/u21-h-em-qualifikation-2023-2024-gruppe-f/0/,17:00,Luxembourg,England,0:3,0:1,0,3,/report/u21-h-em-qualifikation-2023-2024-gruppe-f-luxemburg-england/
+09/11/2023,UEFA,U21 EURO Qualifiers 2023/2024,Group H,/schedule/u21-h-em-qualifikation-2023-2024-gruppe-h/0/,17:00,Slovenia,France,0:4,0:1,0,4,/report/u21-h-em-qualifikation-2023-2024-gruppe-h-slowenien-frankreich/
+09/11/2023,CAF,Africa Cup Qual. 2022-2023,Group A,/schedule/africa-cup-qual-2022-2023-gruppe-a/0/,17:00,Guinea-Bissau,Sierra Leone,2:1,1:1,2,1,/report/africa-cup-qual-2022-2023-gruppe-a-guinea-bissau-sierra-leone/
+09/11/2023,CONCACAF,CONCACAF Nations League A 2023/2024,Group A,/schedule/concacaf-nations-league-a-2023-2024-gruppe-a/0/,01:00,Martinique,Curaçao,1:0,0:0,1,0,/report/concacaf-nations-league-a-2023-2024-gruppe-a-martinique-curacao/
+09/11/2023,CONCACAF,CONCACAF Nations League A 2023/2024,Group A,/schedule/concacaf-nations-league-a-2023-2024-gruppe-a/0/,01:05,Guatemala,Panama,1:1,0:1,1,1,/report/concacaf-nations-league-a-2023-2024-gruppe-a-guatemala-panama/
+09/11/2023,CONCACAF,CONCACAF Nations League A 2023/2024,Group A,/schedule/concacaf-nations-league-a-2023-2024-gruppe-a/0/,03:10,El Salvador,Trinidad & Tobago,2:3,1:1,2,3,/report/concacaf-nations-league-a-2023-2024-gruppe-a-el-salvador-trinidad-tobago/
+09/11/2023,CONCACAF,CONCACAF Nations League B 2023/2024,Group A,/schedule/concacaf-nations-league-b-2023-2024-gruppe-a/0/,00:00,St. Lucia,St. Kitts & Nevis,2:0,0:0,2,0,/report/concacaf-nations-league-b-2023-2024-gruppe-a-st-lucia-st-kitts-nevis/
+09/11/2023,CONCACAF,CONCACAF Nations League C 2023/2024,Group B,/schedule/concacaf-nations-league-c-2023-2024-gruppe-b/0/,21:30,Cayman Islands,Aruba,1:2,1:1,1,2,/report/concacaf-nations-league-c-2023-2024-gruppe-b-kaimaninseln-aruba/
+09/11/2023,Argentina,Primera B Nacional 2023 Grupo B,,/competition/arg-primera-b-nacional/,01:30,Independiente Rivadavia,Brown de Adrogué,0:2,0:1,0,2,/report/primera-b-nacional-2023-grupo-b-independiente-rivadavia-brown-de-adrogue/
+09/11/2023,Argentina,Primera B Nacional 2023 Grupo A,,/competition/arg-primera-b-nacional/,19:40,Nueva Chicago,Patronato de Paraná,1:1,0:1,1,1,/report/primera-b-nacional-2023-grupo-a-nueva-chicago-patronato-de-parana/
+09/11/2023,Argentina,Primera B Metropolitana 2023 Clausura,,/competition/arg-primera-b-metropolitana/,19:30,Fénix,Deportivo Merlo,2:0,0:0,2,0,/report/primera-b-metropolitana-2023-clausura-fenix-deportivo-merlo/
+09/11/2023,Chile,Primera B 2023,,/competition/chi-primera-b/,00:00,San Marcos,Santiago Wanderers,1:2,1:1,1,2,/report/primera-b-2023-san-marcos-santiago-wanderers/
+09/11/2023,Colombia,Primera A 2023 Clausura,,/competition/col-primera-a/,00:10,América de Cali,Deportivo Cali,3:0,1:0,3,0,/report/primera-a-2023-clausura-america-de-cali-deportivo-cali/
+09/11/2023,Colombia,Primera A 2023 Clausura,,/competition/col-primera-a/,02:20,Millonarios,Santa Fe,2:4,1:0,2,4,/report/primera-a-2023-clausura-millonarios-santa-fe/
+09/11/2023,Colombia,Primera A 2023 Clausura,,/competition/col-primera-a/,22:00,Envigado FC,Águilas Doradas,2:2,1:1,2,2,/report/primera-a-2023-clausura-envigado-fc-aguilas-doradas/
+09/11/2023,Colombia,Primera B 2023 Clausura,,/competition/col-primera-b/,21:00,Boca Juniors de Cali,Llaneros FC,0:0,0:0,0,0,/report/primera-b-2023-clausura-boca-juniors-de-cali-llaneros-fc/
+09/11/2023,Colombia,Primera B 2023 Clausura,,/competition/col-primera-b/,21:00,Patriotas FC,Atlético FC,2:1,2:0,2,1,/report/primera-b-2023-clausura-patriotas-fc-atletico-fc/
+09/11/2023,Colombia,Primera B 2023 Clausura,,/competition/col-primera-b/,23:00,Barranquilla FC,Fortaleza FC,1:1,1:0,1,1,/report/primera-b-2023-clausura-barranquilla-fc-fortaleza-fc/
+09/11/2023,Ecuador,Serie B 2023,,/competition/ecu-serie-b/,00:00,Manta,Imbabura,1:0,0:0,1,0,/report/serie-b-2023-manta-imbabura_2/
+09/11/2023,England,Professional Development League 2023/2024,,/competition/eng-professional-development-league/,14:00,Crewe Alexandra U23,Watford FC U23,0:1,0:1,0,1,
+09/11/2023,England,Professional Development League 2023/2024,,/competition/eng-professional-development-league/,14:00,Birmingham City U23,Millwall FC U23,3:3,1:1,3,3,
+09/11/2023,Estonia,Eesti Karikas 2023/2024,3. Round,/schedule/est-eesti-karikas-2023-2024-3-runde/0/,15:30,JK Nõmme Kalju,Tulevik Viljandi,5:1,2:1,5,1,
+09/11/2023,Estonia,Eesti Karikas 2023/2024,3. Round,/schedule/est-eesti-karikas-2023-2024-3-runde/0/,17:00,Tallinna Olympic,Harju JK,0:8,0:4,0,8,
+09/11/2023,France,National 2023/2024,,/competition/fra-national/,18:30,Red Star FC,FC Rouen 1899,3:2,0:0,3,2,/report/national-2023-2024-red-star-fc-fc-rouen-1899/
+09/11/2023,France,National 2023/2024,,/competition/fra-national/,20:00,US Orléans,Le Mans FC,1:3,1:1,1,3,/report/national-2023-2024-us-orleans-le-mans-fc/
+09/11/2023,Germany,Oberliga Rheinland-Pfalz/Saar 2023/2024,,/competition/oberliga-rheinland-pfalz-saar_2/,18:00,Rot-Weiß Koblenz,FC Karbach,3:0,0:0,3,0,/report/oberliga-rheinland-pfalz-saar-2023-2024-rot-weiss-koblenz-fc-karbach/
+09/11/2023,Italy,Serie C Girone C 2023/2024,,/competition/ita-serie-c-girone-c/,19:45,Benevento Calcio,Virtus Francavilla,1:0,1:0,1,0,/report/serie-c-girone-c-2023-2024-benevento-calcio-virtus-francavilla/
+09/11/2023,Italy,Serie C Girone C 2023/2024,,/competition/ita-serie-c-girone-c/,19:45,Foggia Calcio,Giugliano,1:0,0:0,1,0,/report/serie-c-girone-c-2023-2024-foggia-calcio-giugliano/
+09/11/2023,Italy,Serie C Girone C 2023/2024,,/competition/ita-serie-c-girone-c/,19:45,SS Juve Stabia,US Avellino,1:0,0:0,1,0,/report/serie-c-girone-c-2023-2024-ss-juve-stabia-us-avellino/
+09/11/2023,Italy,Serie C Girone C 2023/2024,,/competition/ita-serie-c-girone-c/,19:45,AZ Picerno,Taranto FC,1:1,1:0,1,1,/report/serie-c-girone-c-2023-2024-az-picerno-taranto-fc/
+09/11/2023,Mexico,Liga de Expansión 2023/2024 Apertura,,/competition/mex-liga-de-expansion/,02:05,Atlético Morelia,Atlético La Paz,2:0,1:0,2,0,/report/liga-de-expansion-2023-2024-apertura-atletico-morelia-atletico-la-paz/
+09/11/2023,Mexico,Women Liga MX Femenil 2023/2024 Apertura,,/competition/mex-frauen-liga-mx-femenil/,01:06,Santos Laguna,CF Monterrey,1:3,1:2,1,3,/report/frauen-liga-mx-femenil-2023-2024-apertura-santos-laguna-cf-monterrey/
+09/11/2023,Mexico,Women Liga MX Femenil 2023/2024 Apertura,,/competition/mex-frauen-liga-mx-femenil/,03:06,FC Juárez,Club Necaxa,6:0,4:0,6,0,/report/frauen-liga-mx-femenil-2023-2024-apertura-fc-juarez-club-necaxa/
+09/11/2023,Mexico,Women Liga MX Femenil 2023/2024 Apertura,,/competition/mex-frauen-liga-mx-femenil/,22:45,Cruz Azul,Atlas Guadalajara,2:0,0:0,2,0,/report/frauen-liga-mx-femenil-2023-2024-apertura-cruz-azul-atlas-guadalajara/
+09/11/2023,Mexico,U18 Fuerzas Basicas 2023/2024 Apertura,,/competition/mex-u18-h-fuerzas-basicas/,16:00,Deportivo Guadalajara,Club Tijuana,1:1,1:0,1,1,/report/u18-h-fuerzas-basicas-2023-2024-apertura-deportivo-guadalajara-club-tijuana/
+09/11/2023,Paraguay,Primera División 2023 Clausura,,/competition/par-primera-division/,00:00,Cerro Porteño,Club Nacional,1:1,1:0,1,1,/report/primera-division-2023-clausura-cerro-porteno-club-nacional/
+09/11/2023,Peru,Primera División 2023 Clausura,,/competition/per-primera-division/,01:00,Universitario de Deportes,Deportivo Municipal,1:0,0:0,1,0,/report/primera-division-2023-clausura-universitario-de-deportes-deportivo-municipal/
+09/11/2023,Peru,Segunda División 2023,,/competition/per-segunda-division_2/,21:15,Llacuabamba,Universidad San Martín,0:0,0:0,0,0,/report/segunda-division-2023-llacuabamba-universidad-san-martin/
+09/11/2023,Russia,1. Division 2023/2024,,/competition/rus-1-division/,14:30,Arsenal Tula,FK Khimki,0:2,0:1,0,2,/report/1-division-2023-2024-arsenal-tula-fk-khimki/
+09/11/2023,Russia,1. Division 2023/2024,,/competition/rus-1-division/,17:30,Torpedo Moskva,Akron Tolyatti,1:0,0:0,1,0,/report/1-division-2023-2024-torpedo-moskva-akron-tolyatti/
+09/11/2023,Russia,2. Division B Gr.3 2023,,/competition/rus-2-division-b-gr-3/,11:00,FK Khimki 2,FK Strogino Moskva,1:1,0:1,1,1,/report/2-division-b-gr-3-2023-fk-khimki-2-fk-strogino-moskva/
+09/11/2023,Russia,2. Division B Gr.3 2023,,/competition/rus-2-division-b-gr-3/,13:00,Kompozit Pavlovsky Posad,FK Sakhalin,3:0,2:0,3,0,/report/2-division-b-gr-3-2023-kompozit-pavlovsky-posad-fk-sakhalin/
+09/11/2023,Russia,2. Division B Gr.3 2023,,/competition/rus-2-division-b-gr-3/,14:00,FK Kolomna,Spartak Tambov,1:2,1:2,1,2,/report/2-division-b-gr-3-2023-fk-kolomna-spartak-tambov/
+09/11/2023,Spain,Segunda División 2023/2024,,/competition/esp-segunda-division/,20:00,CD Eldense,AD Alcorcón,2:2,0:0,2,2,/report/segunda-division-2023-2024-cd-eldense-ad-alcorcon/
+09/11/2023,Sweden,Division 1 Södra 2023,,/competition/swe-division-1-soedra/,18:00,FC Trollhättan,IK Oddevold,1:3,1:2,1,3,/report/division-1-soedra-2023-fc-trollhaettan-ik-oddevold/
+09/11/2023,Uruguay,Segunda División 2023 Fase regular,,/competition/uru-segunda-division/,,Oriental,Juventud de Las Piedras,,,,,
+09/11/2023,USA,Major League Soccer 2023,,/competition/usa-major-league-soccer/,01:00,Los Angeles Galaxy,St. Louis City SC,2:2,0:2,2,2,/report/major-league-soccer-2023-los-angeles-galaxy-st-louis-city-sc/

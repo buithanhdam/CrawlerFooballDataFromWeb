@@ -1,0 +1,153 @@
+﻿date_time,region,tournament,matchday,league_href,begin_time,first_team,second_team,full_match_goals,half_match_goals,first_team_goals,second_team_goals,match_href
+2023-09-19,FIFA,U16 Friendlies 2023,September,/schedule/u16-h-freundschaft-2023-september_2/0/,14:00,Scotland,Faroe Islands,,,,,/report/u16-h-freundschaft-2023-september-schottland-faeroeer/
+2023-09-19,FIFA,U16 Friendlies 2023,September,/schedule/u16-h-freundschaft-2023-september_2/0/,15:00,Denmark,Portugal,2:0,1:0,2.0,0.0,/report/u16-h-freundschaft-2023-september-daenemark-portugal/
+2023-09-19,FIFA,U16 Friendlies 2023,September,/schedule/u16-h-freundschaft-2023-september_2/0/,17:00,Spain,Italy,2:1,1:1,2.0,1.0,/report/u16-h-freundschaft-2023-september-spanien-italien/
+2023-09-19,FIFA,U16 Friendlies 2023,September,/schedule/u16-h-freundschaft-2023-september_2/0/,17:00,Poland,Switzerland,0:2,0:0,0.0,2.0,/report/u16-h-freundschaft-2023-september-polen-schweiz/
+2023-09-19,FIFA,U16 Friendlies 2023,September,/schedule/u16-h-freundschaft-2023-september_2/0/,18:00,Belgium,Turkey,2:1,0:0,2.0,1.0,/report/u16-h-freundschaft-2023-september-belgien-tuerkei/
+2023-09-19,UEFA,Champions League 2023/2024,Group E,/schedule/champions-league-2023-2024-gruppe-e/0/,20:00,Lazio Roma,Atlético Madrid,1:1,0:1,1.0,1.0,/report/champions-league-2023-2024-gruppe-e-lazio-roma-atletico-madrid/
+2023-09-19,UEFA,Champions League 2023/2024,Group E,/schedule/champions-league-2023-2024-gruppe-e/0/,20:00,Feyenoord,Celtic FC,2:0,1:0,2.0,0.0,/report/champions-league-2023-2024-gruppe-e-feyenoord-celtic-fc/
+2023-09-19,UEFA,Champions League 2023/2024,Group F,/schedule/champions-league-2023-2024-gruppe-f/0/,17:45,AC Milan,Newcastle United,0:0,0:0,0.0,0.0,/report/champions-league-2023-2024-gruppe-f-ac-milan-newcastle-united/
+2023-09-19,UEFA,Champions League 2023/2024,Group F,/schedule/champions-league-2023-2024-gruppe-f/0/,20:00,Paris Saint-Germain,Borussia Dortmund,2:0,0:0,2.0,0.0,/report/champions-league-2023-2024-gruppe-f-paris-saint-germain-borussia-dortmund/
+2023-09-19,UEFA,Champions League 2023/2024,Group G,/schedule/champions-league-2023-2024-gruppe-g/0/,17:45,BSC Young Boys,RB Leipzig,1:3,1:1,1.0,3.0,/report/champions-league-2023-2024-gruppe-g-bsc-young-boys-rb-leipzig/
+2023-09-19,UEFA,Champions League 2023/2024,Group G,/schedule/champions-league-2023-2024-gruppe-g/0/,20:00,Manchester City,Crvena Zvezda,3:1,0:1,3.0,1.0,/report/champions-league-2023-2024-gruppe-g-manchester-city-crvena-zvezda/
+2023-09-19,UEFA,Champions League 2023/2024,Group H,/schedule/champions-league-2023-2024-gruppe-h/0/,20:00,FC Barcelona,Royal Antwerp FC,5:0,3:0,5.0,0.0,/report/champions-league-2023-2024-gruppe-h-fc-barcelona-royal-antwerp-fc/
+2023-09-19,UEFA,Champions League 2023/2024,Group H,/schedule/champions-league-2023-2024-gruppe-h/0/,20:00,Shakhtar Donetsk,FC Porto,1:3,1:3,1.0,3.0,/report/champions-league-2023-2024-gruppe-h-shakhtar-donetsk-fc-porto/
+2023-09-19,UEFA,Youth Youth League 2023/2024,Group E,/schedule/a-junioren-youth-league-2023-2024-gruppe-e/0/,13:00,Lazio Roma,Atlético Madrid,0:2,0:0,0.0,2.0,/report/a-junioren-youth-league-2023-2024-gruppe-e-lazio-roma-atletico-madrid/
+2023-09-19,UEFA,Youth Youth League 2023/2024,Group E,/schedule/a-junioren-youth-league-2023-2024-gruppe-e/0/,14:00,Feyenoord,Celtic FC,3:0,1:0,3.0,0.0,/report/a-junioren-youth-league-2023-2024-gruppe-e-feyenoord-celtic-fc/
+2023-09-19,UEFA,Youth Youth League 2023/2024,Group F,/schedule/a-junioren-youth-league-2023-2024-gruppe-f/0/,13:00,AC Milan,Newcastle United,4:0,3:0,4.0,0.0,/report/a-junioren-youth-league-2023-2024-gruppe-f-ac-milan-newcastle-united/
+2023-09-19,UEFA,Youth Youth League 2023/2024,Group F,/schedule/a-junioren-youth-league-2023-2024-gruppe-f/0/,15:00,Paris Saint-Germain,Borussia Dortmund,0:1,0:1,0.0,1.0,/report/a-junioren-youth-league-2023-2024-gruppe-f-paris-saint-germain-borussia-dortmund/
+2023-09-19,UEFA,Youth Youth League 2023/2024,Group G,/schedule/a-junioren-youth-league-2023-2024-gruppe-g/0/,13:30,BSC Young Boys,RB Leipzig,1:3,1:1,1.0,3.0,/report/a-junioren-youth-league-2023-2024-gruppe-g-bsc-young-boys-rb-leipzig/
+2023-09-19,UEFA,Youth Youth League 2023/2024,Group G,/schedule/a-junioren-youth-league-2023-2024-gruppe-g/0/,15:00,Manchester City,Crvena Zvezda,5:2,1:0,5.0,2.0,/report/a-junioren-youth-league-2023-2024-gruppe-g-manchester-city-crvena-zvezda/
+2023-09-19,UEFA,Youth Youth League 2023/2024,Group H,/schedule/a-junioren-youth-league-2023-2024-gruppe-h/0/,12:00,Shakhtar Donetsk,FC Porto,1:4,0:3,1.0,4.0,/report/a-junioren-youth-league-2023-2024-gruppe-h-shakhtar-donetsk-fc-porto/
+2023-09-19,UEFA,Youth Youth League 2023/2024,Group H,/schedule/a-junioren-youth-league-2023-2024-gruppe-h/0/,15:00,FC Barcelona,Royal Antwerp FC,2:1,2:0,2.0,1.0,/report/a-junioren-youth-league-2023-2024-gruppe-h-fc-barcelona-royal-antwerp-fc/
+2023-09-19,AFC,AFC Champions League 2023/2024,Group A,/schedule/afc-champions-league-2023-2024-gruppe-a/0/,15:00,Pakhtakor Tashkent,Al Ain FC,0:3,0:2,0.0,3.0,/report/afc-champions-league-2023-2024-gruppe-a-pakhtakor-tashkent-al-ain-fc/
+2023-09-19,AFC,AFC Champions League 2023/2024,Group A,/schedule/afc-champions-league-2023-2024-gruppe-a/0/,17:00,Ahal FK,Al Fayha,1:0,0:0,1.0,0.0,/report/afc-champions-league-2023-2024-gruppe-a-ahal-fk-al-fayha/
+2023-09-19,AFC,AFC Champions League 2023/2024,Group E,/schedule/afc-champions-league-2023-2024-gruppe-e/0/,17:00,FC Istiklol,Al Duhail SC,0:0,0:0,0.0,0.0,/report/afc-champions-league-2023-2024-gruppe-e-fc-istiklol-al-duhail-sc/
+2023-09-19,AFC,AFC Champions League 2023/2024,Group E,/schedule/afc-champions-league-2023-2024-gruppe-e/0/,19:00,Persepolis,Al Nassr,0:2,0:0,0.0,2.0,/report/afc-champions-league-2023-2024-gruppe-e-persepolis-al-nassr/
+2023-09-19,AFC,AFC Champions League 2023/2024,Group G,/schedule/afc-champions-league-2023-2024-gruppe-g/0/,11:00,Yokohama F. Marinos,Incheon United,2:4,2:2,2.0,4.0,/report/afc-champions-league-2023-2024-gruppe-g-yokohama-f-marinos-incheon-united/
+2023-09-19,AFC,AFC Champions League 2023/2024,Group G,/schedule/afc-champions-league-2023-2024-gruppe-g/0/,13:00,Kaya FC–Iloilo,Shandong Taishan,1:3,0:0,1.0,3.0,/report/afc-champions-league-2023-2024-gruppe-g-kaya-fc-iloilo-shandong-taishan/
+2023-09-19,AFC,AFC Champions League 2023/2024,Group I,/schedule/afc-champions-league-2023-2024-gruppe-i/0/,11:00,Ulsan Hyundai,BG Pathum United,3:1,1:1,3.0,1.0,/report/afc-champions-league-2023-2024-gruppe-i-ulsan-hyundai-bg-pathum-united/
+2023-09-19,AFC,AFC Champions League 2023/2024,Group I,/schedule/afc-champions-league-2023-2024-gruppe-i/0/,13:00,Johor Darul Ta’zim,Kawasaki Frontale,0:1,0:1,0.0,1.0,/report/afc-champions-league-2023-2024-gruppe-i-johor-darul-tazim-kawasaki-frontale/
+2023-09-19,AFC,AFC Cup 2023/2024,Group B,/schedule/afc-cup-2023-2024-gruppe-b/0/,17:00,Al Kahrabaa,Kuwait SC,0:0,0:0,0.0,0.0,
+2023-09-19,AFC,AFC Cup 2023/2024,Group B,/schedule/afc-cup-2023-2024-gruppe-b/0/,19:00,Al Wehdat,Al Ittihad,2:0,1:0,2.0,0.0,
+2023-09-19,AFC,AFC Cup 2023/2024,Group D,/schedule/afc-cup-2023-2024-gruppe-d/0/,11:00,Maziya S&RC,Bashundhara Kings,3:1,1:0,3.0,1.0,
+2023-09-19,AFC,AFC Cup 2023/2024,Group D,/schedule/afc-cup-2023-2024-gruppe-d/0/,15:00,Odisha FC,Mohun Bagan Super Giant,0:4,0:0,0.0,4.0,
+2023-09-19,AFC,U17 Women Asian Cup Qual. 2023,2nd Round Group A,/schedule/u17-d-championship-qual-2023-2-runde-gruppe-a/0/,10:30,South Korea,India,8:0,2:0,8.0,0.0,
+2023-09-19,AFC,U17 Women Asian Cup Qual. 2023,2nd Round Group A,/schedule/u17-d-championship-qual-2023-2-runde-gruppe-a/0/,14:30,Thailand,Iran,6:0,3:0,6.0,0.0,
+2023-09-19,Albania,Kategoria Superiore 2023/2024,,/competition/alb-kategoria-superiore/,14:00,KF Laçi,FK Vllaznia,2:1,1:1,2.0,1.0,/report/kategoria-superiore-2023-2024-kf-laci-fk-vllaznia/
+2023-09-19,Albania,Kategoria Superiore 2023/2024,,/competition/alb-kategoria-superiore/,14:00,KF Teuta Durrës,KF Skënderbeu,1:0,1:0,1.0,0.0,/report/kategoria-superiore-2023-2024-kf-teuta-durres-kf-skenderbeu/
+2023-09-19,Argentina,Copa de la Superliga 2023,,/competition/arg-copa-de-la-superliga/,00:00,Lanús,Sarmiento de Junín,0:0,0:0,0.0,0.0,/report/copa-de-la-superliga-2023-lanus-sarmiento-de-junin/
+2023-09-19,Argentina,Copa de la Superliga 2023,,/competition/arg-copa-de-la-superliga/,22:45,Central Córdoba SdE,Boca Juniors,0:3,0:0,0.0,3.0,/report/copa-de-la-superliga-2023-central-cordoba-sde-boca-juniors/
+2023-09-19,Argentina,Primera B Nacional 2023 Grupo B,,/competition/arg-primera-b-nacional/,01:10,Ferro Carril Oeste,Tristan Suárez,2:1,2:0,2.0,1.0,/report/primera-b-nacional-2023-grupo-b-ferro-carril-oeste-tristan-suarez/
+2023-09-19,Argentina,Torneo Federal A 2023,,/competition/arg-torneo-federal-a/,00:30,Belgrano de San Francisco,Independiente de Chivilcoy,1:0,0:0,1.0,0.0,/report/torneo-federal-a-2023-belgrano-de-san-francisco-independiente-de-chivilcoy_2/
+2023-09-19,Argentina,Copa de la SAF Reserva 2023,,/competition/arg-copa-de-la-saf-reserva/,15:00,Gimnasia de La Plata II,Estudiantes II,2:0,0:0,2.0,0.0,/report/copa-de-la-saf-reserva-2023-gimnasia-de-la-plata-ii-estudiantes-ii/
+2023-09-19,Argentina,Copa de la SAF Reserva 2023,,/competition/arg-copa-de-la-saf-reserva/,15:00,Defensa y Justicia II,Arsenal de Sarandí II,0:0,0:0,0.0,0.0,/report/copa-de-la-saf-reserva-2023-defensa-y-justicia-ii-arsenal-de-sarandi-ii/
+2023-09-19,Argentina,Copa de la SAF Reserva 2023,,/competition/arg-copa-de-la-saf-reserva/,15:00,Central Córdoba SdE II,Atlético Tucumán II,2:1,1:1,2.0,1.0,/report/copa-de-la-saf-reserva-2023-central-cordoba-sde-ii-atletico-tucuman-ii/
+2023-09-19,Argentina,Copa de la SAF Reserva 2023,,/competition/arg-copa-de-la-saf-reserva/,15:00,Sarmiento de Junín II,Barracas Central II,1:3,0:1,1.0,3.0,/report/copa-de-la-saf-reserva-2023-sarmiento-de-junin-ii-barracas-central-ii/
+2023-09-19,Armenia,Premier League 2023/2024,,/competition/arm-premier-league/,13:00,FC Urartu,FK Van,3:1,1:1,3.0,1.0,
+2023-09-19,Armenia,Premier League 2023/2024,,/competition/arm-premier-league/,16:00,Shirak FC,FC Ararat-Armenia,1:3,0:1,1.0,3.0,
+2023-09-19,Austria,Regionalliga Ost 2023/2024,,/competition/aut-regionalliga-ost/,18:00,Austria Wien (A),SC Neusiedl/See 1919,3:2,2:1,3.0,2.0,
+2023-09-19,Austria,Regionalliga Mitte 2023/2024,,/competition/aut-regionalliga-mitte/,16:00,Wolfsberger AC (A),Vorwärts Steyr,1:2,0:1,1.0,2.0,
+2023-09-19,Bolivia,Copa de la Div. Prof. 2023,Group B,/schedule/bol-copa-de-la-div-prof-2023-gruppe-b/0/,23:00,Atlético Palmaflor,The Strongest,,,,,
+2023-09-19,Brazil,Série A 2023,,/competition/bra-serie-a/,01:00,Corinthians SP,Grêmio Porto Alegre,4:4,3:2,4.0,4.0,/report/serie-a-2023-corinthians-sp-gremio-porto-alegre/
+2023-09-19,Brazil,Série A 2023,,/competition/bra-serie-a/,00:00,Bahia - BA,Santos FC,1:2,0:0,1.0,2.0,/report/serie-a-2023-bahia-ba-santos-fc/
+2023-09-19,Brazil,Série B 2023,,/competition/bra-serie-b/,01:00,Grêmio Novorizontino - SP,Ceará - CE,4:1,3:0,4.0,1.0,/report/serie-b-2023-gremio-novorizontino-sp-ceara-ce/
+2023-09-19,Brazil,U20 Copa do Brasil 2023,Quarter-finals,/schedule/bra-u20-h-copa-do-brasil-2023-viertelfinale/0/,23:00,Corinthians SP,Fluminense RJ,3:1,,3.0,1.0,/report/u20-h-copa-do-brasil-2023-viertelfinale-corinthians-sp-fluminense-rj/
+2023-09-19,Colombia,Primera A 2023 Clausura,,/competition/col-primera-a/,00:40,Atlético Bucaramanga,Deportivo Pereira,1:1,0:0,1.0,1.0,/report/primera-a-2023-clausura-atletico-bucaramanga-deportivo-pereira/
+2023-09-19,Colombia,Primera A 2023 Clausura,,/competition/col-primera-a/,02:50,Independiente Medellín,Millonarios,1:1,0:1,1.0,1.0,/report/primera-a-2023-clausura-independiente-medellin-millonarios/
+2023-09-19,Colombia,Primera B 2023 Clausura,,/competition/col-primera-b/,20:00,Patriotas FC,Orsomarso SC,1:0,1:0,1.0,0.0,/report/primera-b-2023-clausura-patriotas-fc-orsomarso-sc/
+2023-09-19,Colombia,Primera B 2023 Clausura,,/competition/col-primera-b/,22:05,Deportes Quindío,Llaneros FC,0:0,0:0,0.0,0.0,/report/primera-b-2023-clausura-deportes-quindio-llaneros-fc/
+2023-09-19,Costa Rica,Primera División 2023/2024 Apertura,,/competition/crc-primera-division/,22:00,AD Guanacasteca,LD Alajuelense,3:2,2:2,3.0,2.0,/report/primera-division-2023-2024-apertura-ad-guanacasteca-ld-alajuelense/
+2023-09-19,Czech Republic,Youth I. CLD 2023/2024,,/competition/cze-a-junioren-i-cld/,15:30,AC Sparta Praha,FK Dukla Praha,1:0,0:0,1.0,0.0,
+2023-09-19,Ecuador,Serie A 2023 Segunda Etapa,,/competition/ecu-serie-a/,01:00,Gualaceo SC,Cumbayá,0:3,0:0,0.0,3.0,/report/serie-a-2023-segunda-etapa-gualaceo-sc-cumbaya/
+2023-09-19,Egypt,Premiership 2023/2024,,/competition/egy-premiership/,14:00,ZED FC,Ismaily,1:0,1:0,1.0,0.0,/report/premiership-2023-2024-zed-fc-ismaily/
+2023-09-19,Egypt,Premiership 2023/2024,,/competition/egy-premiership/,17:00,Al Ahly SC,Al Masry Club,4:0,1:0,4.0,0.0,/report/premiership-2023-2024-al-ahly-sc-al-masry-club/
+2023-09-19,England,Championship 2023/2024,,/competition/eng-championship/,19:45,Bristol City,Plymouth Argyle,4:1,3:1,4.0,1.0,/report/championship-2023-2024-bristol-city-plymouth-argyle/
+2023-09-19,England,Championship 2023/2024,,/competition/eng-championship/,19:45,Cardiff City,Coventry City,3:2,1:1,3.0,2.0,/report/championship-2023-2024-cardiff-city-coventry-city/
+2023-09-19,England,Championship 2023/2024,,/competition/eng-championship/,19:45,Southampton FC,Ipswich Town,0:1,0:1,0.0,1.0,/report/championship-2023-2024-southampton-fc-ipswich-town/
+2023-09-19,England,Championship 2023/2024,,/competition/eng-championship/,19:45,Preston North End,Birmingham City,2:1,0:0,2.0,1.0,/report/championship-2023-2024-preston-north-end-birmingham-city/
+2023-09-19,England,Championship 2023/2024,,/competition/eng-championship/,19:45,Queens Park Rangers,Swansea City,1:1,0:1,1.0,1.0,/report/championship-2023-2024-queens-park-rangers-swansea-city/
+2023-09-19,England,Championship 2023/2024,,/competition/eng-championship/,20:00,Sheffield Wednesday,Middlesbrough FC,1:1,1:0,1.0,1.0,/report/championship-2023-2024-sheffield-wednesday-middlesbrough-fc/
+2023-09-19,England,League One 2023/2024,,/competition/eng-league-one/,19:45,Barnsley FC,Portsmouth FC,2:3,0:3,2.0,3.0,/report/league-one-2023-2024-barnsley-fc-portsmouth-fc/
+2023-09-19,England,League One 2023/2024,,/competition/eng-league-one/,19:45,Peterborough United,Cheltenham Town,3:0,0:0,3.0,0.0,/report/league-one-2023-2024-peterborough-united-cheltenham-town/
+2023-09-19,England,League One 2023/2024,,/competition/eng-league-one/,19:45,Port Vale FC,Burton Albion,2:3,1:1,2.0,3.0,/report/league-one-2023-2024-port-vale-fc-burton-albion/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Altrincham FC,Hartlepool United,2:2,2:1,2.0,2.0,/report/national-league-2023-2024-altrincham-fc-hartlepool-united/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Dagenham & Redbridge,Bromley FC,0:1,0:0,0.0,1.0,/report/national-league-2023-2024-dagenham-redbridge-bromley-fc/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Dorking Wanderers,Wealdstone FC,3:1,3:0,3.0,1.0,/report/national-league-2023-2024-dorking-wanderers-wealdstone-fc/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Eastleigh FC,Oxford City,2:2,1:0,2.0,2.0,/report/national-league-2023-2024-eastleigh-fc-oxford-city/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Barnet FC,Aldershot Town,2:1,1:0,2.0,1.0,/report/national-league-2023-2024-barnet-fc-aldershot-town/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Chesterfield FC,Halifax Town,3:2,2:1,3.0,2.0,/report/national-league-2023-2024-chesterfield-fc-halifax-town/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Gateshead FC,Kidderminster Harriers,3:0,2:0,3.0,0.0,/report/national-league-2023-2024-gateshead-fc-kidderminster-harriers/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Woking FC,Ebbsfleet United,1:1,1:0,1.0,1.0,/report/national-league-2023-2024-woking-fc-ebbsfleet-united/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Oldham Athletic,York City,2:0,1:0,2.0,0.0,/report/national-league-2023-2024-oldham-athletic-york-city/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Solihull Moors,AFC Fylde,2:1,2:1,2.0,1.0,/report/national-league-2023-2024-solihull-moors-afc-fylde/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Southend United,Maidenhead United,2:0,0:0,2.0,0.0,/report/national-league-2023-2024-southend-united-maidenhead-united/
+2023-09-19,England,National League 2023/2024,,/competition/eng-national-league/,19:45,Boreham Wood,Rochdale AFC,1:1,0:0,1.0,1.0,/report/national-league-2023-2024-boreham-wood-rochdale-afc/
+2023-09-19,England,EFL Trophy 2023/2024,Group A North,/schedule/eng-efl-trophy-2023-2024-gruppe-a-nord/0/,19:00,Morecambe FC,Liverpool FC U23,0:3,0:3,0.0,3.0,/report/efl-trophy-2023-2024-gruppe-a-nord-morecambe-fc-liverpool-fc-u23/
+2023-09-19,England,EFL Trophy 2023/2024,Group A South,/schedule/eng-efl-trophy-2023-2024-gruppe-a-sued/0/,19:00,Shrewsbury Town,Brighton & Hove Albion U23,4:1,"0:0,",4.0,1.0,/report/efl-trophy-2023-2024-gruppe-a-sued-shrewsbury-town-brighton-hove-albion-u23/
+2023-09-19,England,EFL Trophy 2023/2024,Group B South,/schedule/eng-efl-trophy-2023-2024-gruppe-b-sued/0/,19:45,Sutton United,Aston Villa U23,4:5,"0:1,",4.0,5.0,/report/efl-trophy-2023-2024-gruppe-b-sued-sutton-united-aston-villa-u23/
+2023-09-19,England,EFL Trophy 2023/2024,Group C South,/schedule/eng-efl-trophy-2023-2024-gruppe-c-sued/0/,19:00,Wycombe Wanderers,Crystal Palace U23,1:0,0:0,1.0,0.0,/report/efl-trophy-2023-2024-gruppe-c-sued-wycombe-wanderers-crystal-palace-u23/
+2023-09-19,England,EFL Trophy 2023/2024,Group D North,/schedule/eng-efl-trophy-2023-2024-gruppe-d-nord/0/,19:00,Wigan Athletic,Leicester City U23,7:1,1:1,7.0,1.0,/report/efl-trophy-2023-2024-gruppe-d-nord-wigan-athletic-leicester-city-u23/
+2023-09-19,England,EFL Trophy 2023/2024,Group D South,/schedule/eng-efl-trophy-2023-2024-gruppe-d-sued/0/,19:30,Colchester United,Tottenham Hotspur U23,0:5,0:1,0.0,5.0,/report/efl-trophy-2023-2024-gruppe-d-sued-colchester-united-tottenham-hotspur-u23/
+2023-09-19,England,EFL Trophy 2023/2024,Group E South,/schedule/eng-efl-trophy-2023-2024-gruppe-e-sued/0/,19:00,Leyton Orient,Fulham FC U23,5:4,"1:1,",5.0,4.0,/report/efl-trophy-2023-2024-gruppe-e-sued-leyton-orient-fulham-fc-u23/
+2023-09-19,England,EFL Trophy 2023/2024,Group F South,/schedule/eng-efl-trophy-2023-2024-gruppe-f-sued/0/,19:00,Oxford United,Milton Keynes Dons,0:1,0:0,0.0,1.0,/report/efl-trophy-2023-2024-gruppe-f-sued-oxford-united-milton-keynes-dons/
+2023-09-19,England,EFL Trophy 2023/2024,Group G North,/schedule/eng-efl-trophy-2023-2024-gruppe-g-nord/0/,19:00,Derby County,Lincoln City,2:0,0:0,2.0,0.0,/report/efl-trophy-2023-2024-gruppe-g-nord-derby-county-lincoln-city/
+2023-09-19,England,EFL Trophy 2023/2024,Group G South,/schedule/eng-efl-trophy-2023-2024-gruppe-g-sued/0/,19:00,Exeter City,Reading FC,0:9,0:2,0.0,9.0,/report/efl-trophy-2023-2024-gruppe-g-sued-exeter-city-reading-fc/
+2023-09-19,England,EFL Trophy 2023/2024,Group H North,/schedule/eng-efl-trophy-2023-2024-gruppe-h-nord/0/,19:00,Doncaster Rovers,Everton FC U23,2:0,0:0,2.0,0.0,/report/efl-trophy-2023-2024-gruppe-h-nord-doncaster-rovers-everton-fc-u23/
+2023-09-19,England,Professional Development League 2023/2024,,/competition/eng-professional-development-league/,12:00,Burnley FC U23,Sheffield Wednesday U23,0:4,0:1,0.0,4.0,
+2023-09-19,England,Professional Development League 2023/2024,,/competition/eng-professional-development-league/,14:00,Sheffield United U23,Fleetwood Town U23,6:0,2:0,6.0,0.0,
+2023-09-19,Faroe Islands,Effodeildin 2023,,/competition/fro-effodeildin/,18:00,HB Tórshavn,Víkingur,1:2,0:2,1.0,2.0,/report/effodeildin-2023-hb-torshavn-vikingur_2/
+2023-09-19,Germany,Regionalliga Nord 2023/2024,,/competition/regionalliga-nord/,12:00,Hamburger SV II,Hannover 96 II,2:1,1:1,2.0,1.0,/report/regionalliga-nord-2023-2024-hamburger-sv-ii-hannover-96-ii/
+2023-09-19,Germany,Regionalliga Südwest 2023/2024,,/competition/regionalliga-suedwest/,18:00,1. FSV Mainz 05 II,1899 Hoffenheim II,1:0,0:0,1.0,0.0,/report/regionalliga-suedwest-2023-2024-1-fsv-mainz-05-ii-1899-hoffenheim-ii/
+2023-09-19,Germany,Regionalliga Bayern 2023/2024,,/competition/regionalliga-bayern/,18:00,FC Augsburg II,SpVgg Bayreuth,1:1,0:1,1.0,1.0,/report/regionalliga-bayern-2023-2024-fc-augsburg-ii-spvgg-bayreuth/
+2023-09-19,Germany,Regionalliga Bayern 2023/2024,,/competition/regionalliga-bayern/,18:00,Wacker Burghausen,SpVgg Greuther Fürth II,1:0,0:0,1.0,0.0,/report/regionalliga-bayern-2023-2024-wacker-burghausen-spvgg-greuther-fuerth-ii/
+2023-09-19,Germany,Bayernliga Nord 2023/2024,,/competition/bayernliga-nord/,18:00,ATSV Erlangen,SpVgg Bayern Hof,2:0,,2.0,0.0,/report/bayernliga-nord-2023-2024-atsv-erlangen-spvgg-bayern-hof/
+2023-09-19,Germany,Bayernliga Süd 2023/2024,,/competition/bayernliga-sued/,16:15,FC Pipinsried,FC Gundelfingen,1:0,0:0,1.0,0.0,/report/bayernliga-sued-2023-2024-fc-pipinsried-fc-gundelfingen/
+2023-09-19,Germany,Oberliga Rheinland-Pfalz/Saar 2023/2024,,/competition/oberliga-rheinland-pfalz-saar_2/,18:30,Cosmos Koblenz,FV Dudenhofen,1:1,1:0,1.0,1.0,/report/oberliga-rheinland-pfalz-saar-2023-2024-cosmos-koblenz-fv-dudenhofen/
+2023-09-19,Italy,Serie C Girone A 2023/2024,,/competition/ita-serie-c-girone-a/,17:30,US Pergolettese,US Triestina,2:1,1:0,2.0,1.0,/report/serie-c-girone-a-2023-2024-us-pergolettese-us-triestina/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,17:30,Lucchese,AS Gubbio,0:0,0:0,0.0,0.0,/report/serie-c-girone-b-2023-2024-lucchese-as-gubbio/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,17:30,ASD Pineto Calcio,AC Rimini,1:0,0:0,1.0,0.0,/report/serie-c-girone-b-2023-2024-asd-pineto-calcio-ac-rimini/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,17:30,Fermana FC,US Recanatese,0:1,0:0,0.0,1.0,/report/serie-c-girone-b-2023-2024-fermana-fc-us-recanatese/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,17:30,US Arezzo,Olbia,1:1,0:0,1.0,1.0,/report/serie-c-girone-b-2023-2024-us-arezzo-olbia/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,17:30,Vis Pesaro,Virtus Entella,2:0,1:0,2.0,0.0,/report/serie-c-girone-b-2023-2024-vis-pesaro-virtus-entella/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,19:45,Cesena FC,Ancona 1905,4:0,1:0,4.0,0.0,/report/serie-c-girone-b-2023-2024-cesena-fc-ancona-1905/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,19:45,AC Perugia Calcio,US Pontedera,1:1,0:0,1.0,1.0,/report/serie-c-girone-b-2023-2024-ac-perugia-calcio-us-pontedera/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,19:45,Juventus II,SPAL 2013 Ferrara,0:1,0:0,0.0,1.0,/report/serie-c-girone-b-2023-2024-juventus-ii-spal-2013-ferrara/
+2023-09-19,Italy,Serie C Girone B 2023/2024,,/competition/ita-serie-c-girone-b/,19:45,USD Sestri Levante,Pescara Calcio,,,,,/report/serie-c-girone-b-2023-2024-usd-sestri-levante-pescara-calcio/liveticker/
+2023-09-19,Mexico,Primera División 2023/2024 Apertura,,/competition/mex-primera-division/,04:00,CF Pachuca,Santos Laguna,3:2,1:0,3.0,2.0,/report/primera-division-2023-2024-apertura-cf-pachuca-santos-laguna/
+2023-09-19,Mexico,LP - Serie A 2023/2024 Grupo A,,/competition/mex-lp-serie-a/,04:00,CF Reynosa,Mexicali FC,,,,,
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,Olde Veste '54,VV Noordwijk,0:2,0:0,0.0,2.0,/report/knvb-beker-2023-2024-2-vorrunde-olde-veste-54-vv-noordwijk/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,CSV Apeldoorn,VV OJC Rosmalen,1:3,0:2,1.0,3.0,/report/knvb-beker-2023-2024-2-vorrunde-csv-apeldoorn-vv-ojc-rosmalen/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,SV Spakenburg,VV Scherpenzeel,1:0,0:0,1.0,0.0,/report/knvb-beker-2023-2024-2-vorrunde-sv-spakenburg-vv-scherpenzeel/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,GVVV,BVV Barendrecht,5:2,2:1,5.0,2.0,/report/knvb-beker-2023-2024-2-vorrunde-gvvv-bvv-barendrecht/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,DVS'33,IJsselmeervogels,0:2,0:1,0.0,2.0,/report/knvb-beker-2023-2024-2-vorrunde-dvs33-ijsselmeervogels/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,VV Eemdijk,Harkemase Boys,3:2,1:1,3.0,2.0,/report/knvb-beker-2023-2024-2-vorrunde-vv-eemdijk-harkemase-boys/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,Sparta Nijkerk,Unitas Gorinchem,4:2,2:0,4.0,2.0,/report/knvb-beker-2023-2024-2-vorrunde-sparta-nijkerk-unitas-gorinchem/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,RKAV Volendam,RKVV Westlandia,3:0,1:0,3.0,0.0,/report/knvb-beker-2023-2024-2-vorrunde-rkav-volendam-rkvv-westlandia/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,RKVV DEM,Sportlust '46,3:1,1:1,3.0,1.0,/report/knvb-beker-2023-2024-2-vorrunde-rkvv-dem-sportlust-46/
+2023-09-19,Netherlands,KNVB beker 2023/2024,2. pre-round,/schedule/ned-knvb-beker-2023-2024-2-vorrunde/0/,19:00,SVV Scheveningen,HSV Hoek,2:1,1:0,2.0,1.0,/report/knvb-beker-2023-2024-2-vorrunde-svv-scheveningen-hsv-hoek/
+2023-09-19,Nicaragua,Liga Primera 2023/2024 Apertura,,/competition/nca-liga-primera/,02:00,UNAN Managua,H&H Export Sébaco,5:0,4:0,5.0,0.0,/report/liga-primera-2023-2024-apertura-unan-managua-h-h-export-sebaco/
+2023-09-19,Nicaragua,Liga Primera 2023/2024 Apertura,,/competition/nca-liga-primera/,02:00,Real Estelí FC,Matagalpa FC,2:1,1:0,2.0,1.0,/report/liga-primera-2023-2024-apertura-real-esteli-fc-matagalpa-fc/
+2023-09-19,Paraguay,Copa Paraguay 2023,Round of 16,/schedule/par-copa-paraguay-2023-achtelfinale/0/,22:00,Club Nacional,Sportivo Luqueño,4:3,0:0,4.0,3.0,
+2023-09-19,Peru,Primera División 2023 Clausura,,/competition/per-primera-division/,19:00,Alianza Atlético,Deportivo Binacional,1:0,0:0,1.0,0.0,/report/primera-division-2023-clausura-alianza-atletico-deportivo-binacional/
+2023-09-19,Peru,Primera División 2023 Clausura,,/competition/per-primera-division/,21:20,Academia Cantolao,FBC Melgar,0:1,0:0,0.0,1.0,/report/primera-division-2023-clausura-academia-cantolao-fbc-melgar/
+2023-09-19,Peru,Segunda División 2023,,/competition/per-segunda-division_2/,17:00,Ayacucho FC,Santos FC,,,,,
+2023-09-19,Peru,Segunda División 2023,,/competition/per-segunda-division_2/,19:00,Carlos Stein,Llacuabamba,0:5,0:2,0.0,5.0,/report/segunda-division-2023-carlos-stein-llacuabamba/
+2023-09-19,Peru,Segunda División 2023,,/competition/per-segunda-division_2/,21:15,Pirata,Comerciantes Unidos,,,,,
+2023-09-19,Poland,Puchar Polski 2023/2024,1. Round,/schedule/pol-puchar-polski-2023-2024-1-runde/0/,16:00,Miedź Legnica II,Stal Rzeszow,0:3,0:0,0.0,3.0,
+2023-09-19,Portugal,U23 Liga Revelação 2023/2024,,/competition/por-u23-h-liga-revelacao/,11:00,Leixões SC,FC Famalicão,1:2,0:1,1.0,2.0,
+2023-09-19,Portugal,U23 Liga Revelação 2023/2024,,/competition/por-u23-h-liga-revelacao/,15:00,Académico de Viseu,Rio Ave FC,3:1,1:0,3.0,1.0,
+2023-09-19,Portugal,U23 Liga Revelação 2023/2024,,/competition/por-u23-h-liga-revelacao/,15:00,Gil Vicente,FC Vizela,0:2,0:1,0.0,2.0,
+2023-09-19,Portugal,U23 Liga Revelação 2023/2024,,/competition/por-u23-h-liga-revelacao/,15:00,Portimonense SC,CD Santa Clara,1:1,0:0,1.0,1.0,/report/u23-h-liga-revelacao-2023-2024-portimonense-sc-cd-santa-clara/
+2023-09-19,Portugal,U23 Liga Revelação 2023/2024,,/competition/por-u23-h-liga-revelacao/,15:00,Sporting CP,CD Mafra,4:2,1:2,4.0,2.0,
+2023-09-19,Portugal,U23 Liga Revelação 2023/2024,,/competition/por-u23-h-liga-revelacao/,15:30,Estrela Amadora,GD Estoril,1:2,1:0,1.0,2.0,
+2023-09-19,Russia,Kubok 2023/2024,PL Group C,/schedule/rus-kubok-2023-2024-pl-gruppe-c/0/,15:15,Baltika Kaliningrad,Krylia Sovetov,1:2,0:1,1.0,2.0,/report/kubok-2023-2024-pl-gruppe-c-baltika-kaliningrad-krylia-sovetov/
+2023-09-19,Russia,Kubok 2023/2024,PL Group D,/schedule/rus-kubok-2023-2024-pl-gruppe-d/0/,13:00,FK Krasnodar,Dinamo Moskva,4:2,"0:1,",4.0,2.0,/report/kubok-2023-2024-pl-gruppe-d-fk-krasnodar-dinamo-moskva/
+2023-09-19,Russia,Kubok 2023/2024,PL Group D,/schedule/rus-kubok-2023-2024-pl-gruppe-d/0/,15:15,FK Nizhny Novgorod,Spartak Moskva,0:3,0:1,0.0,3.0,/report/kubok-2023-2024-pl-gruppe-d-fk-nizhny-novgorod-spartak-moskva/
+2023-09-19,South Africa,Premier Soccer League 2023/2024,,/competition/rsa-premier-soccer-league/,18:30,Cape Town Spurs,Golden Arrows,1:2,1:0,1.0,2.0,/report/premier-soccer-league-2023-2024-cape-town-spurs-golden-arrows/
+2023-09-19,South Africa,Premier Soccer League 2023/2024,,/competition/rsa-premier-soccer-league/,18:30,Richards Bay FC,Chippa United,1:2,1:1,1.0,2.0,/report/premier-soccer-league-2023-2024-richards-bay-fc-chippa-united/
+2023-09-19,South Africa,Premier Soccer League 2023/2024,,/competition/rsa-premier-soccer-league/,18:30,Stellenbosch FC,Moroka Swallows,0:2,0:1,0.0,2.0,/report/premier-soccer-league-2023-2024-stellenbosch-fc-moroka-swallows/
+2023-09-19,South Korea,K League 2 2023,,/competition/kor-k-league-2/,11:00,Busan IPark,Ansan Greeners,2:0,0:0,2.0,0.0,
+2023-09-19,South Korea,K League 2 2023,,/competition/kor-k-league-2/,11:30,Chungbuk Cheongju FC,Seoul E-Land FC,0:1,0:1,0.0,1.0,
+2023-09-19,South Korea,K League 2 2023,,/competition/kor-k-league-2/,11:30,Seongnam FC,Gimcheon Sangmu,1:0,1:0,1.0,0.0,
+2023-09-19,Spain,Segunda RFEF Grupo 3 2023/2024,,/competition/esp-segunda-rfef-grupo-3/,17:00,CE Manresa,Peña Deportiva,1:1,1:1,1.0,1.0,/report/segunda-rfef-grupo-3-2023-2024-ce-manresa-pena-deportiva/

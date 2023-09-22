@@ -20,5 +20,5 @@ def backup_csv_data(output_path,date_string=''):
     target = csp + "\\"+target_path
     try:
         shutil.copyfile(original, target)
-    except NameError:
-        print("Backup Error: "+NameError)
+    except Exception:
+        print("[ERROR]: Backup Error: "+str(Exception))

@@ -1,13 +1,12 @@
 def transform_data(list_leagues, date_string ):
     from datetime import datetime
     new_leagues = []
-    date_format = '%m/%d/%Y %H:%M:%S'
+    date_format = '%m/%d/%Y'
     dt_string = ''
     if date_string  == '':
         now = datetime.now()
         dt_string = now.strftime(date_format)
     else:
-
         date_obj = datetime.strptime(date_string , '%d/%m/%Y')
         dt_string = date_obj.strftime(date_format)
 
@@ -49,7 +48,7 @@ def save_to_excel(list_leagues, output_path, date_string =''):
     # Chuyển đổi ngày thành định dạng datetime
     specific_date = pd.to_datetime(specific_date, format='%m/%d/%Y')
 
-    data_output_path = read_data.read_data_directory() + "/"+output_path
+    data_output_path = read_data.read_data_directory(date_string) + "/"+output_path
 
     # Lọc dữ liệu theo ngày cụ thể
     # recent_df = old_df[old_df['date_time'].dt.date == specific_date.date()]
@@ -65,5 +64,5 @@ def save_to_excel(list_leagues, output_path, date_string =''):
             n_df = update_to_csv.update_data_from_web(df, output_path, date_string)
             n_df.to_csv(data_output_path, mode='w', index=False, encoding='utf-8-sig')
             print("Update new data to csv file successfully!!")
-    except NameError:
-        print("Save Error: ", NameError)
+    except Exception:
+        print("[ERROR]: Save Error: ", str(Exception))
